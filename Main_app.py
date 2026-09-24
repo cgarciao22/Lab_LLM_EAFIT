@@ -671,4 +671,3 @@ st.caption(
     "Groq LLM Lab · La API key se mantiene en la sesión de Streamlit. "
     "No se guarda en el código."
 )
-
