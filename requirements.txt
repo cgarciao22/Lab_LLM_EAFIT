@@ -1,1 +1,8 @@
+streamlit>=1.40,<2
+groq>=0.30,<1
+tiktoken>=0.8,<1
+sentence-transformers>=3.0,<6
+scikit-learn>=1.5,<2
+numpy>=1.26,<3
+pandas>=2.2,<4
 
